@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sinoonn/static/css/main.6f5cdf3f.css",
+    "main.js": "/sinoonn/static/js/main.ac527b2e.js",
+    "static/js/787.7d9e39ef.chunk.js": "/sinoonn/static/js/787.7d9e39ef.chunk.js",
+    "static/media/revicons.eot": "/sinoonn/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/sinoonn/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/sinoonn/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/sinoonn/index.html",
+    "main.6f5cdf3f.css.map": "/sinoonn/static/css/main.6f5cdf3f.css.map",
+    "main.ac527b2e.js.map": "/sinoonn/static/js/main.ac527b2e.js.map",
+    "787.7d9e39ef.chunk.js.map": "/sinoonn/static/js/787.7d9e39ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5cdf3f.css",
+    "static/js/main.ac527b2e.js"
+  ]
+}
